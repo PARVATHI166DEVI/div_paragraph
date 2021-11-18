@@ -1,0 +1,54 @@
+
+#div1{
+    text-align: center;
+    font-size: large;
+    color: black;
+    border: 6px solid violet;
+    background-color: aqua;
+    padding: 2%;
+    /* height: 500%;
+    width: 400%; */
+}
+
+.table{ 
+    color: rgb(31, 9, 129);
+    margin-top: 2%;
+    margin-left: 30%;
+    width: 50%;
+    height: 100%;   
+    border: 5px solid;
+    border-style: double;
+}
+
+#btn1,#btn2,#btn3,#btn4,#btn5,#btn6,#btn7,#btn8,#btn9{
+    color: #880b5e;
+    background-color: rgb(153, 252, 191);
+    font-size: medium;
+    padding: 2%;
+    margin: 5%;
+    margin-left: 30%;
+}
+
+#btn4{
+    width: 50px;
+    height: 40px;
+    color: crimson;
+    background-color: aqua;
+}
+
+#btn5{
+    width: 70px;
+    height: 40px;
+    color: crimson;
+    background-color: aqua;
+}
+
+#btn6{
+    width: 90px;
+    height: 40px;
+    color: crimson;
+    background-color: aqua;
+}
+
+
+
